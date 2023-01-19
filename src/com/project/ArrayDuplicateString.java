@@ -10,6 +10,7 @@ public class ArrayDuplicateString {
 		list.add("java");
 		list.add("Hibernate");
 		list.add("Springboot");
+		list.add("velocity");
 		System.out.println(list);
 	}
 
